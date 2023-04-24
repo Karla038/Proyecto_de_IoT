@@ -8,7 +8,17 @@ Este es el repositorio oficial del proyecto Brumm-Brumm Smart, un carrito sembra
 El Brumm-Brumm Smart está equipado con una variedad de sensores y actuadores, lo que le permite operar de manera autónoma y sembrar semillas en cada cierta distancia. Aquí están algunas de sus principales características:
 
 # Sensores
-Lluvia, gas, choque, ultrasonido, temperatura y humedad, infrarrojo
+
+| Nombre        | Modelo        | Precio        | Imagen        |
+| ------------- | ------------- | ------------- | ------------- |
+| Lluvia        | Content Cell  | Content Cell  | Content Cell  |
+| Gas           | Content Cell  | Content Cell  | Content Cell  |
+| Choque        | Content Cell  | Content Cell  | Content Cell  |
+| Ultrasonido   | Content Cell  | Content Cell  | Content Cell  |
+| Temperatura y |               |               |               |
+|   Humedad     | Content Cell  | Content Cell  | Content Cell  |
+
+
 
 #Estructura
 4 motores de corriente directa, 4 Leds, ESP32, cables, 3 pilas 188650
