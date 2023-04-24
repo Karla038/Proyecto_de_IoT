@@ -2,14 +2,13 @@
 Proyecto Final de la asignatura de IoT 
 
 # Brumm-Brumm Smart
-Este es el repositorio oficial del proyecto Brumm-Brumm Smart, un carrito sembrador autónomo diseñado para ayudar en la reforestación y siembra de cultivos.
+Este es el repositorio oficial del proyecto Brumm-Brumm Smart, un carrito sembrador autónomo diseñado para ayudar en la siembra de cultivos.
 
 # Características
 El Brumm-Brumm Smart está equipado con una variedad de sensores y actuadores, lo que le permite operar de manera autónoma y sembrar semillas en cada cierta distancia. Aquí están algunas de sus principales características:
 
 # Sensores
 Lluvia, gas, choque, ultrasonido, temperatura y humedad, infrarrojo
-Panel solar de 100*60 para cargar las baterías
 
 #Estructura
 4 motores de corriente directa, 4 Leds, ESP32, cables, 3 pilas 188650
@@ -24,8 +23,6 @@ Los sensores del Brumm-Brumm Smart le permiten adaptarse al ambiente en tiempo r
 El precio oficial del Brumm-Brumm Smart es de $500 USD. Este precio incluye todos los componentes necesarios para construir el carrito sembrador autónomo.
 
 
-# Licencia
-El proyecto Brumm-Brumm Smart está bajo la Licencia MIT. Consulte el archivo LICENSE para obtener más información.
 
 
 
