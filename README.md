@@ -9,14 +9,15 @@ El Brumm-Brumm Smart está equipado con una variedad de sensores y actuadores, l
 
 # Sensores
 
-| Nombre        | Modelo        | Precio        | Imagen        |
-| ------------- | ------------- | ------------- | ------------- |
-| Lluvia        | Content Cell  | Content Cell  | Content Cell  |
-| Gas           | Content Cell  | Content Cell  | Content Cell  |
-| Choque        | Content Cell  | Content Cell  | Content Cell  |
-| Ultrasonido   | Content Cell  | Content Cell  | Content Cell  |
-| Temperatura y |               |               |               |
-|   Humedad     | Content Cell  | Content Cell  | Content Cell  |
+| Nombre        | Modelo        | Precio   | Imagen        |
+| ------------- | ------------- | ---------| ------------- |
+| Lluvia        | FC-37         | $60      | ![image](https://user-images.githubusercontent.com/124712008/234090635-235aa2bb-ec7a-45bd-98c6-b4c4dc360c2f.png)  |
+| Gas           | Mq-2          | $70      | ![image](https://user-images.githubusercontent.com/124712008/234089856-e0737a07-cde6-4aa3-b9c9-9584419a2d2c.png)  |
+| Choque        | Ky-002        | $40      | ![image](https://user-images.githubusercontent.com/124712008/234090104-febc3f7b-9815-45d3-b476-3a441e73a900.png)  |
+| Ultrasonico   | HC-SR04       | $100     | ![image](https://user-images.githubusercontent.com/124712008/234090402-439eacd5-c4a5-4bd8-8ce8-814e63eaf8d1.png)  |
+| Temperatura y
+   Humedad      | DHT11         | $50      | ![image](https://user-images.githubusercontent.com/124712008/234089647-34c15013-2f75-4860-b161-bb33166ebcab.png)  |
+     
 
 
 
