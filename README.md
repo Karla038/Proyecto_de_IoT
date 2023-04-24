@@ -19,17 +19,13 @@ El Brumm-Brumm Smart está diseñado para operar de manera autónoma en cualquie
 
 Los sensores del Brumm-Brumm Smart le permiten adaptarse al ambiente en tiempo real. Por ejemplo, si detecta lluvia, puede detenerse temporalmente hasta que la lluvia pase. También puede detectar gas y alertar a los agricultores para que tomen medidas de seguridad. Además, el carrito es capaz de detectar choques y obstáculos y evitarlos para evitar daños.
 
-# Precio
+# Precio al mercado
 El precio oficial del Brumm-Brumm Smart es de $500 USD. Este precio incluye todos los componentes necesarios para construir el carrito sembrador autónomo.
 
+# Prototipo
 
-
-
-
-
-
-
-
+![Imagen de WhatsApp 2023-04-24 a las 12 33 56](https://user-images.githubusercontent.com/124712008/234086150-a30f9e61-faf1-43e2-94f5-182b63313c4a.jpg)
+![Imagen de WhatsApp 2023-04-24 a las 12 33 56](https://user-images.githubusercontent.com/124712008/234086211-1514cb46-72cd-46e1-b8d6-87f7a83a05f2.jpg)
 
 
 
