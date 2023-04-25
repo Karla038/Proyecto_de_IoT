@@ -79,8 +79,11 @@ Las Librerias usadas para facilitar el uso de los sensores son las Siguientes
 | Gas           | Mq-2          | https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjTiYmYhcb-AhWYDkQIHXfjBgUQFnoECAwQAQ&url=https%3A%2F%2Fwww.arduinolibraries.info%2Flibraries%2Fmq-unifiedsensor&usg=AOvVaw0KkdoUsfDnsoplBolvtcTP  |
 
 
-![Imagen de WhatsApp 2023-04-24 a las 12 33 56](https://user-images.githubusercontent.com/124712008/234086150-a30f9e61-faf1-43e2-94f5-182b63313c4a.jpg)
-![Imagen de WhatsApp 2023-04-24 a las 12 33 56](https://user-images.githubusercontent.com/124712008/234086211-1514cb46-72cd-46e1-b8d6-87f7a83a05f2.jpg)
+![Imagen de WhatsApp 2023-04-25 a las 15 25 34](https://user-images.githubusercontent.com/124712008/234418994-3874d03d-4f39-4c49-894f-9ff760829aa8.jpg)
+![Imagen de WhatsApp 2023-04-25 a las 15 25 34](https://user-images.githubusercontent.com/124712008/234419014-77c168ac-cc0f-4bfd-9944-1b93214961d9.jpg)
+![Imagen de WhatsApp 2023-04-25 a las 15 25 34](https://user-images.githubusercontent.com/124712008/234419031-ef092935-02f7-4e27-878b-b62011d464d1.jpg)
+![Imagen de WhatsApp 2023-04-25 a las 15 25 35](https://user-images.githubusercontent.com/124712008/234419060-9c2d155b-15c1-4a5b-bcd4-b53e2339e8ff.jpg)
+
 
 # Link del video
 https://drive.google.com/file/d/1ntzOzh_sRI7MPzfZtahKKE6SzCEpW7rx/view?usp=drivesdk
