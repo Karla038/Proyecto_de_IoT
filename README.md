@@ -39,6 +39,9 @@ En general, el Brumm-Brumm Smart parece ser una herramienta valiosa para la agri
 # Precio al mercado
 El precio oficial del Brumm-Brumm Smart es de $500 USD. Este precio incluye todos los componentes necesarios para construir el carrito sembrador autónomo.
 
+# Pantalla de dashboard
+
+
 # Notificaciones con API de **WhatsApp**
 ![Imagen de WhatsApp 2023-04-25 a las 15 25 31](https://user-images.githubusercontent.com/124712008/234408109-abee78f1-e6a5-43db-ae1f-5527b2ca0493.jpg)
 ![Imagen de WhatsApp 2023-04-25 a las 15 25 33](https://user-images.githubusercontent.com/124712008/234408135-2af7889d-2809-4e8a-ab7e-97b2f7a8766d.jpg)
