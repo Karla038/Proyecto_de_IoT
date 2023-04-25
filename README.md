@@ -46,10 +46,10 @@ El precio oficial del Brumm-Brumm Smart es de $500 USD. Este precio incluye todo
 https://drive.google.com/file/d/1ntzOzh_sRI7MPzfZtahKKE6SzCEpW7rx/view?usp=drivesdk
 
 # Integrantes
-**Fernando Arvizu Sotelo** \n
-**Karla Moya Díaz** \n
-**Juan Antonio Dominguez Rosales** \n
-**Jose Carlos Duarte** \n
+### **Fernando Arvizu Sotelo** 
+### **Karla Moya Díaz**
+### **Juan Antonio Dominguez Rosales** 
+### **Jose Carlos Duarte** 
 
 
 
