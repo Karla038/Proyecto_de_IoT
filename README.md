@@ -18,15 +18,13 @@ El Brumm-Brumm Smart está equipado con una variedad de sensores y actuadores, l
 | Temperatura y Humedad      | DHT11         | $50      | ![image](https://user-images.githubusercontent.com/124712008/234089647-34c15013-2f75-4860-b161-bb33166ebcab.png)  |
      
 
-#Actuadores
-| Nombre                        | Modelo        | Precio   | Imagen        |
-| -------------                 | ------------- | ---------| ------------- |
-| Motor de corriente continua   |  12v          | $190     | ![image](https://user-images.githubusercontent.com/124712008/234345476-6458980c-76fe-4462-8c99-fabf11ec611b.png)|
-| ServoMotor                    | SG90 RC 9g    | $70      | ![image](https://user-images.githubusercontent.com/124712008/234345116-5ed6ec73-3c9c-4d69-b8c3-6bbbbf75aa19.png)|
+# Actuadores
+| Nombre                        | Cantidad      | Modelo        | Precio   | Imagen        |
+| -------------                 | ------------- | ------------- | ---------| ------------- |
+| Motor de corriente continua   | 4             | 12v           | $190     | ![image](https://user-images.githubusercontent.com/124712008/234345476-6458980c-76fe-4462-8c99-fabf11ec611b.png)|
+| ServoMotor                    | 1             | SG90 RC 9g    | $70      | ![image](https://user-images.githubusercontent.com/124712008/234345116-5ed6ec73-3c9c-4d69-b8c3-6bbbbf75aa19.png)|
 
 
-4 motores de corriente directa, 4 Leds, ESP32, cables, 3 pilas 188650
-4 llantas y una estructura de plástico
 
 # Funcionamiento
 El Brumm-Brumm Smart está diseñado para operar de manera autónoma en cualquier terreno. Después de cargar sus baterías a través del panel solar, el carrito se mueve y utiliza sus sensores para detectar el ambiente a su alrededor. Cuando llega a la distancia deseada, el carrito libera una semilla en el suelo.
