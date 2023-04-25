@@ -7,6 +7,17 @@ Este es el repositorio oficial del proyecto Brumm-Brumm Smart, un carrito sembra
 # Características
 El Brumm-Brumm Smart está equipado con una variedad de sensores y actuadores, lo que le permite operar de manera autónoma y sembrar semillas en cada cierta distancia. Aquí están algunas de sus principales características:
 
+# Funcionamiento
+El Brumm-Brumm Smart está diseñado para operar de manera autónoma en cualquier terreno. El carrito se mueve y utiliza sus sensores para detectar el ambiente a su alrededor y así saber donde es apto depositar la semilla. 
+
+El Brumm-Brumm Smart suena como un vehículo autónomo interesante y útil para la agricultura. Con la capacidad de adaptarse al ambiente en tiempo real y detectar obstáculos, el carrito puede evitar daños a sí mismo y a los cultivos que se encuentren en su camino.
+
+La capacidad de detectar lluvia y detenerse temporalmente hasta que la lluvia pase también es una característica útil, ya que puede evitar que se deposite la semilla en terrenos inundados o encharcados, lo que puede afectar el crecimiento de las plantas.
+
+La capacidad de detectar gas y alertar a los agricultores es otro beneficio importante en términos de seguridad, ya que puede ayudar a evitar accidentes peligrosos y proteger la salud de los trabajadores del campo.
+
+En general, el Brumm-Brumm Smart parece ser una herramienta valiosa para la agricultura, ya que puede mejorar la eficiencia y la seguridad en la siembra y el cultivo de los cultivos.
+
 # Sensores
 
 | Nombre        | Modelo        | Precio   | Imagen        |
@@ -25,22 +36,22 @@ El Brumm-Brumm Smart está equipado con una variedad de sensores y actuadores, l
 | ServoMotor                    | 1             | SG90 RC 9g    | $70      | ![image](https://user-images.githubusercontent.com/124712008/234345116-5ed6ec73-3c9c-4d69-b8c3-6bbbbf75aa19.png)|
 
 
-
-# Funcionamiento
-El Brumm-Brumm Smart está diseñado para operar de manera autónoma en cualquier terreno. Después de cargar sus baterías a través del panel solar, el carrito se mueve y utiliza sus sensores para detectar el ambiente a su alrededor. Cuando llega a la distancia deseada, el carrito libera una semilla en el suelo.
-
-Los sensores del Brumm-Brumm Smart le permiten adaptarse al ambiente en tiempo real. Por ejemplo, si detecta lluvia, puede detenerse temporalmente hasta que la lluvia pase. También puede detectar gas y alertar a los agricultores para que tomen medidas de seguridad. Además, el carrito es capaz de detectar choques y obstáculos y evitarlos para evitar daños.
-
 # Precio al mercado
 El precio oficial del Brumm-Brumm Smart es de $500 USD. Este precio incluye todos los componentes necesarios para construir el carrito sembrador autónomo.
+
+# Notificaciones con API de **WhatsApp**
+![Imagen de WhatsApp 2023-04-25 a las 15 25 31](https://user-images.githubusercontent.com/124712008/234408109-abee78f1-e6a5-43db-ae1f-5527b2ca0493.jpg)
+![Imagen de WhatsApp 2023-04-25 a las 15 25 33](https://user-images.githubusercontent.com/124712008/234408135-2af7889d-2809-4e8a-ab7e-97b2f7a8766d.jpg)
 
 # Esquema en Fritzing
 ![image](https://user-images.githubusercontent.com/124712008/234340252-ca42547b-439e-4b11-b079-36bd9e6ded66.png)
 
 # Prototipo
+![Imagen de WhatsApp 2023-04-25 a las 15 25 34](https://user-images.githubusercontent.com/124712008/234408194-ea3d5427-322c-4323-be01-56b125941ea3.jpg)
+![Imagen de WhatsApp 2023-04-25 a las 15 25 34](https://user-images.githubusercontent.com/124712008/234408222-b53e6964-249f-4d6d-aa83-ab4216775c83.jpg)
+![Imagen de WhatsApp 2023-04-25 a las 15 25 34](https://user-images.githubusercontent.com/124712008/234408286-906bd350-2395-4aff-bd2f-7da96acc7386.jpg)
+![Imagen de WhatsApp 2023-04-25 a las 15 25 35](https://user-images.githubusercontent.com/124712008/234408311-e3404946-44de-4b09-8eed-a5017140bc0b.jpg)
 
-![Imagen de WhatsApp 2023-04-24 a las 12 33 56](https://user-images.githubusercontent.com/124712008/234086150-a30f9e61-faf1-43e2-94f5-182b63313c4a.jpg)
-![Imagen de WhatsApp 2023-04-24 a las 12 33 56](https://user-images.githubusercontent.com/124712008/234086211-1514cb46-72cd-46e1-b8d6-87f7a83a05f2.jpg)
 
 # Link del video
 https://drive.google.com/file/d/1ntzOzh_sRI7MPzfZtahKKE6SzCEpW7rx/view?usp=drivesdk
