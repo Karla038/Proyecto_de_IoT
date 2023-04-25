@@ -42,5 +42,14 @@ El precio oficial del Brumm-Brumm Smart es de $500 USD. Este precio incluye todo
 ![Imagen de WhatsApp 2023-04-24 a las 12 33 56](https://user-images.githubusercontent.com/124712008/234086150-a30f9e61-faf1-43e2-94f5-182b63313c4a.jpg)
 ![Imagen de WhatsApp 2023-04-24 a las 12 33 56](https://user-images.githubusercontent.com/124712008/234086211-1514cb46-72cd-46e1-b8d6-87f7a83a05f2.jpg)
 
+# Link del video
+https://drive.google.com/file/d/1ntzOzh_sRI7MPzfZtahKKE6SzCEpW7rx/view?usp=drivesdk
+
+# Integrantes
+**Fernando Arvizu Sotelo**
+**Karla Moya Díaz**
+**Juan Antonio Dominguez Rosales**
+**Jose Carlos Duarte**
+
 
 
