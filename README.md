@@ -18,9 +18,13 @@ El Brumm-Brumm Smart está equipado con una variedad de sensores y actuadores, l
 | Temperatura y Humedad      | DHT11         | $50      | ![image](https://user-images.githubusercontent.com/124712008/234089647-34c15013-2f75-4860-b161-bb33166ebcab.png)  |
      
 
+#Actuadores
+| Nombre                        | Modelo        | Precio   | Imagen        |
+| -------------                 | ------------- | ---------| ------------- |
+| Motor de corriente continua   |  12v          | $190     | ![image](https://user-images.githubusercontent.com/124712008/234345476-6458980c-76fe-4462-8c99-fabf11ec611b.png)|
+| ServoMotor                    | SG90 RC 9g    | $70      | ![image](https://user-images.githubusercontent.com/124712008/234345116-5ed6ec73-3c9c-4d69-b8c3-6bbbbf75aa19.png)|
 
 
-#Estructura
 4 motores de corriente directa, 4 Leds, ESP32, cables, 3 pilas 188650
 4 llantas y una estructura de plástico
 
@@ -31,6 +35,9 @@ Los sensores del Brumm-Brumm Smart le permiten adaptarse al ambiente en tiempo r
 
 # Precio al mercado
 El precio oficial del Brumm-Brumm Smart es de $500 USD. Este precio incluye todos los componentes necesarios para construir el carrito sembrador autónomo.
+
+# Esquema en Fritzing
+![image](https://user-images.githubusercontent.com/124712008/234340252-ca42547b-439e-4b11-b079-36bd9e6ded66.png)
 
 # Prototipo
 
