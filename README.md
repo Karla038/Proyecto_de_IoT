@@ -34,13 +34,31 @@ La Placa Principal usada fue una ESP32 que es una mejor opción sobre la placa A
 | Motor de corriente continua   | 4             | 12v           | $190     | ![image](https://user-images.githubusercontent.com/124712008/234345476-6458980c-76fe-4462-8c99-fabf11ec611b.png)|
 | ServoMotor                    | 1             | SG90 RC 9g    | $70      | ![image](https://user-images.githubusercontent.com/124712008/234345116-5ed6ec73-3c9c-4d69-b8c3-6bbbbf75aa19.png)|
 
-# Node-Red - Dashboard 
-
 
 # Funcionamiento
 El Brumm-Brumm Smart está diseñado para operar de manera autónoma en cualquier terreno. Después de cargar sus baterías a través del panel solar, el carrito se mueve y utiliza sus sensores para detectar el ambiente a su alrededor. Cuando llega a la distancia deseada, el carrito libera una semilla en el suelo.
 
 Los sensores del Brumm-Brumm Smart le permiten adaptarse al ambiente en tiempo real. Por ejemplo, si detecta lluvia, puede detenerse temporalmente hasta que la lluvia pase. También puede detectar gas y alertar a los agricultores para que tomen medidas de seguridad. Además, el carrito es capaz de detectar choques y obstáculos y evitarlos para evitar daños.
+
+Para almacenar los datos de los sensores se optpo por usar mariaDB, como broker para la conexion remota se uso mosquitto MQTT y Node-RED para la craacion del dashboard de control. Para mayor organizacion se instalaron estas tecnologias en una Raspberrry PI virtualizada
+para asi solo tener que conectarse a un splo punto.
+
+Más detalladamente el Brum Brum Smart se comunica a la Raspberry mediante un microcontrolador ESP32, el cual se conecta mediante los protocoles del código generado en Arduino IDE para recibir y enviar mensajes al broker MQTT, despues con Node-RED se genera un dashboard en donde solo se necesita crear los nodos necesarios para que los datos que mandan los sensores sean tambien virtualizados en el dashboard.
+
+MariaDB:
+
+![image](https://user-images.githubusercontent.com/114528947/234418158-57c43e01-1cdb-4da1-b90d-1ab2a791911e.png)
+
+Node-RED: 
+
+![image](https://user-images.githubusercontent.com/114528947/234418503-930fbdaf-85e3-47f6-a38f-b3b6d4353767.png)
+
+![image](https://user-images.githubusercontent.com/114528947/234418543-b0c4ab81-0eda-4b79-a646-c49902e4f84e.png)
+
+Dashboard Node-RED: 
+
+![image](https://user-images.githubusercontent.com/114528947/234418675-844706b1-428e-4ba3-99ce-c14bada2b248.png)
+
 
 # Precio al mercado
 El precio oficial del Brumm-Brumm Smart es de $500 USD. Este precio incluye todos los componentes necesarios para construir el carrito sembrador autónomo.
