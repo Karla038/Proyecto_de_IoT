@@ -1,3 +1,12 @@
+// Librerías utilizadas
+// Sensor de Temperatura y Humedad DHT11  link: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiDx8_Ag8b-AhWcOEQIHQbuCZ8QFnoECAwQAQ&url=https%3A%2F%2Fwww.arduinolibraries.info%2Flibraries%2Fdht-sensor-library&usg=AOvVaw0mGD6kVAry9l71QgBzbBYO     
+
+// Sensor Ultrasonico HC-SR04 link:  https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjJufimhMb-AhXEM0QIHYJUBo8QFnoECA4QAQ&url=https%3A%2F%2Fwww.arduinolibraries.info%2Flibraries%2Fhcsr04&usg=AOvVaw2rrw6zn5pSEsVAHq6SuUEJ 
+
+// Sensor de Lluvia FC-37 link: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiM2bDchMb-AhWBIEQIHWoiB44QFnoECCEQAQ&url=https%3A%2F%2Fwww.arduinolibraries.info%2Flibraries%2Frain&usg=AOvVaw25Ey1R1szUSnWUzdTaHVHr 
+
+// Sensor de Gas Mq-2 link: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjTiYmYhcb-AhWYDkQIHXfjBgUQFnoECAwQAQ&url=https%3A%2F%2Fwww.arduinolibraries.info%2Flibraries%2Fmq-unifiedsensor&usg=AOvVaw0KkdoUsfDnsoplBolvtcTP 
+
 #include <UrlEncode.h>
 #include <HTTPClient.h>
 
